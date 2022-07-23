@@ -2,4 +2,11 @@
     <string name="app_name">Week05Day04HW</string>
     <string name="home">Home</string>
     <string name="logout">Log out</string>
+    <string name="camera_import">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="subscibe">Subscribe</string>
+    <string name="tools">Tools</string>
+    <string name="communication">Communication</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
 </resources>
