@@ -9,4 +9,6 @@
     <string name="communication">Communication</string>
     <string name="share">Share</string>
     <string name="send">Send</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
