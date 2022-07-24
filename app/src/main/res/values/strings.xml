@@ -11,4 +11,6 @@
     <string name="send">Send</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="username">Feras Alnowiser</string>
+    <string name="email">ferasdev@gmail.com</string>
 </resources>
