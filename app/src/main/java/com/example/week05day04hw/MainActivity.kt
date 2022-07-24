@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
 //        imageButton = findViewById(R.id.ib_user_header)
         var cl = layoutInflater.inflate(R.layout.header, null)
         try {
-            imageButton = cl!!.findViewById(R.id.ib_user_header)
+            imageButton = cl!!.findViewById<ImageButton>(R.id.ib_user_header)
         } catch (e:Exception) {
             Toast.makeText(this, "Error happened during retrieving user image", Toast.LENGTH_SHORT).show()
         }
